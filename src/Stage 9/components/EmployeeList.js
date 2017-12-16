@@ -5,8 +5,8 @@ class EmployeeList extends Component {
     return (
       <div>
         <ul className="listContainer">
-          { 
-            // Map over this.props.employees
+          {
+            
           }
         </ul>
       </div>

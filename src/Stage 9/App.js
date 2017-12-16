@@ -2,22 +2,24 @@ import React, { Component } from 'react';
 
 import Employee from './models/Employee';
 
-// components
 
 class App extends Component {
-  // constructor
+ //constructor
+  
 
   // selectEmployee
+ 
 
   // refresh
+
 
   render() {
     return (
       <div id="app">
-        // render Header here
+        <Header />
         <div className="main-container">
-          // render EmployeeList here
-          // render EmployeeEditor
+          <EmployeeList /> 
+          <EmployeeEditor />
         </div>
       </div>
     )

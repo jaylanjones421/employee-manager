@@ -1,16 +1,17 @@
 import React, { Component } from 'react';
 
 class EmployeeEditor extends Component {
-  // constructor
-
-  // componentWillReceiveProps
-
-  // handleChange
-
-  // save
-
-  // cancel
+    // constructor
+    
+    // componentWillReceiveProps
   
+    // handleChange
+
+    // save
+
+    // cancel
+ 
+    
   render() {
     return (
       <div className="infoCard">

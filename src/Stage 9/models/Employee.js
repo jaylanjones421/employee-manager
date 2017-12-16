@@ -1,9 +1,8 @@
 export default class Employee {
   // constructor
-  
-  // updateName
 
-  // updatePhone
+// updateName
 
-   // updateTitle
-}
+// updatePhone
+
+// updateTitle
